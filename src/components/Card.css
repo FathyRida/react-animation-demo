@@ -1,0 +1,23 @@
+.card {
+  box-shadow: 0 4px 8px 0;
+  transition: 0.3s;
+  background: white;
+  margin: 5px 5px 5px 5px;
+  border-radius: 10px;
+  width: 30%;
+}
+.container {
+  padding: 2px 16px;
+  background: white;
+  border-radius: 0 0 10px 10px;
+}
+.card-image {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.price {
+  color: red;
+  font-weight: 800;
+  font-size: 35px;
+  text-shadow: 0 0 5px;
+}
